@@ -1,5 +1,5 @@
 # RPi-ATtiny85-Programmer
-Programming the ATtiny85 from Raspberry Pi with PCB KiCad layout.
+Programming ATtiny85 using Raspberry Pi.
 
 #### Original Tutorial
 [https://www.instructables.com/id/Programming-the-ATtiny85-from-Raspberry-Pi/](https://www.instructables.com/id/Programming-the-ATtiny85-from-Raspberry-Pi/)
